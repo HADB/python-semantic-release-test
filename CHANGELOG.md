@@ -2,6 +2,13 @@
 
 
 
+## v0.3.0 (2024-07-20)
+
+### Feature
+
+* feat: remove useles code ([`beea69f`](https://github.com/HADB/python-semantic-release-test/commit/beea69f9761f0e87c97b6461f94263daf6520188))
+
+
 ## v0.2.0 (2024-07-20)
 
 ### Feature
