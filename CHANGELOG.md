@@ -2,6 +2,13 @@
 
 
 
+## v0.4.0 (2024-07-20)
+
+### Feature
+
+* feat: remove context in release_notes ([`b5910d9`](https://github.com/HADB/python-semantic-release-test/commit/b5910d9157f835ff92dd6cec3c1da771f26ba0c0))
+
+
 ## v0.3.0 (2024-07-20)
 
 ### Feature
