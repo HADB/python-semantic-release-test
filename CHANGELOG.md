@@ -2,6 +2,13 @@
 
 
 
+## v0.2.0 (2024-07-20)
+
+### Feature
+
+* feat: update compare_url ([`525bf99`](https://github.com/HADB/python-semantic-release-test/commit/525bf9947243239ae1094dd2fa211566805c08a5))
+
+
 ## v0.1.0 (2024-07-20)
 
 ### Feature
