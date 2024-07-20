@@ -10,8 +10,3 @@
 {% for commit in commits %}
 * {{ commit.descriptions[0] }} ([`{{ commit.short_hash }}`]({{ commit.hexsha | commit_hash_url }}))
 {%- endfor %}{% endif %}{% endfor %}
-
-{% set releases = context.history.released.items() | list %}
-{% set prev_version = releases[1][0] %}
-
-**Full changes**: {{ prev_version | compare_url("v{}".format(version)) }}
