@@ -2,6 +2,17 @@
 
 
 
+## v0.5.0 (2024-07-20)
+
+### Feature
+
+* feat: use version ([`2991cc6`](https://github.com/HADB/python-semantic-release-test/commit/2991cc62881a844a67cbe6cd9684f2fd8c109473))
+
+### Fix
+
+* fix: fix version ([`fa8851e`](https://github.com/HADB/python-semantic-release-test/commit/fa8851ef5c5424a89810245ac64ad3260733f0a6))
+
+
 ## v0.4.0 (2024-07-20)
 
 ### Feature
